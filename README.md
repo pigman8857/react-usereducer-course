@@ -20,7 +20,7 @@ This project demonstrates:
 
 ### Prerequisites
 
-- Node.js (v14 or higher)
+- Node.js (v14 or higher) (The learner was using Node 22.13.0 at the time this project was downloaded from Academind's repo)
 - npm or yarn
 
 ### Installation
